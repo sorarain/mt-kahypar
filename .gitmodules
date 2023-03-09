@@ -3,10 +3,10 @@
 	url = https://gitee.com/sapio-s/googletest.git
 [submodule "external_tools/kahypar"]
 	path = external_tools/kahypar
-	url = https://gitee.com/xywu1990/kahypar.git
+	url = https://github.com/sorarain/kahypar.git
 [submodule "external_tools/WHFC"]
 	path = external_tools/WHFC
-	url = https://gitee.com/cl-liao/WHFC.git
+	url = https://github.com/larsgottesbueren/WHFC.git
 [submodule "python/pybind11"]
 	path = python/pybind11
 	url = https://github.com/pybind/pybind11.git
