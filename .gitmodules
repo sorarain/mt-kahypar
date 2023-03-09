@@ -1,12 +1,12 @@
 [submodule "external_tools/googletest"]
 	path = external_tools/googletest
-	url = https://github.com/google/googletest.git
+	url = https://gitee.com/sapio-s/googletest.git
 [submodule "external_tools/kahypar"]
 	path = external_tools/kahypar
-	url = https://github.com/SebastianSchlag/kahypar.git
+	url = https://gitee.com/xywu1990/kahypar.git
 [submodule "external_tools/WHFC"]
 	path = external_tools/WHFC
-	url = https://github.com/larsgottesbueren/WHFC.git
+	url = https://gitee.com/cl-liao/WHFC.git
 [submodule "python/pybind11"]
 	path = python/pybind11
 	url = https://github.com/pybind/pybind11.git
